@@ -1,0 +1,42 @@
+footer,
+#footerCustom {
+    width:100%;
+    height:100px;
+    position:absolute;
+    bottom:0;
+    left:0;
+    background-color: white;    
+}
+
+#bvolver{
+    position: absolute;    
+    bottom:45%;
+    right: 0%;
+    height: 30%;
+    width: 8%;
+    margin: -15% 0 0 -25%;
+}
+
+#body{
+	width:99%;
+}
+
+#panelPrincipal{
+	width:100%;
+	position:absolute;
+}
+
+#encriptarForm{	
+	position:absolute;
+	top:16%;
+	width:98%;
+	left:1%;
+}
+
+#textoEncriptado{
+	position: absolute;	
+	bottom:0%;
+	top:50%;      
+   	left:20%;
+}
+
